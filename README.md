@@ -1,3 +1,7 @@
+# [Check out Dygma-Layouts for more layouts](https://github.com/WillsterJohnson/dygma-layouts)
+
+---
+
 # Dygma Profile
 
 Keyboard layout I'm currently using on my Dygma Defy keyboard.
